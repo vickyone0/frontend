@@ -50,7 +50,7 @@ export default function SettingsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground">
-                  Drafly is an AI-powered email assistant that helps you manage your emails
+                  Drafly is an AI-powered emails assistant that helps you manage your emails
                   and generate professional replies using artificial intelligence.
                 </p>
               </CardContent>
